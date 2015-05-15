@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="0.6.0" timestamp="5/14/15 12:24 PM">
+  <identification>
+    <identity format="MPEG-4 Audio" mimetype="audio/mp4" toolname="FITS" toolversion="0.6.0">
+      <tool toolname="file utility" toolversion="5.19" />
+      <tool toolname="Exiftool" toolversion="7.74" />
+      <version toolname="Exiftool" toolversion="7.74">0</version>
+    </identity>
+  </identification>
+  <fileinfo>
+    <lastmodified toolname="Exiftool" toolversion="7.74" status="SINGLE_RESULT">2015:03:30 16:21:38-07:00</lastmodified>
+    <created toolname="Exiftool" toolversion="7.74" status="SINGLE_RESULT">1904:01:01 00:00:00</created>
+    <filepath toolname="OIS File Information" toolversion="0.1" status="SINGLE_RESULT">/home/mjg/workspace/sufia/spec/fixtures/spoken-text.m4a</filepath>
+    <filename toolname="OIS File Information" toolversion="0.1" status="SINGLE_RESULT">spoken-text.m4a</filename>
+    <size toolname="OIS File Information" toolversion="0.1" status="SINGLE_RESULT">21425</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.1" status="SINGLE_RESULT">114f9c63a47ae5b111655e4c76a48371</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.1" status="SINGLE_RESULT">1427757698000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <audio>
+      <duration toolname="Exiftool" toolversion="7.74" status="SINGLE_RESULT">3.35 s</duration>
+      <bitDepth toolname="Exiftool" toolversion="7.74" status="SINGLE_RESULT">16</bitDepth>
+      <sampleRate toolname="Exiftool" toolversion="7.74" status="SINGLE_RESULT">22050</sampleRate>
+      <channels toolname="Exiftool" toolversion="7.74" status="SINGLE_RESULT">2</channels>
+    </audio>
+  </metadata>
+</fits>
+

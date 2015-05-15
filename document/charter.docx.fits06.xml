@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="0.6.0" timestamp="5/14/15 12:24 PM">
+  <identification status="CONFLICT">
+    <identity format="Microsoft Word 2007+" mimetype="application/vnd.openxmlformats-officedocument.wordprocessingml.document" toolname="FITS" toolversion="0.6.0">
+      <tool toolname="file utility" toolversion="5.19" />
+    </identity>
+    <identity format="OpenDocument Text" mimetype="application/vnd.oasis.opendocument.text" toolname="FITS" toolversion="0.6.0">
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.4GA" />
+    </identity>
+  </identification>
+  <fileinfo>
+    <lastmodified toolname="Exiftool" toolversion="7.74" status="SINGLE_RESULT">2014:05:15 12:24:52-07:00</lastmodified>
+    <filepath toolname="OIS File Information" toolversion="0.1" status="SINGLE_RESULT">/home/mjg/workspace/sufia/spec/fixtures/charter.docx</filepath>
+    <filename toolname="OIS File Information" toolversion="0.1" status="SINGLE_RESULT">charter.docx</filename>
+    <size toolname="OIS File Information" toolversion="0.1" status="SINGLE_RESULT">24244</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.1" status="SINGLE_RESULT">f9a1603c78ab95edfc53452bfb83ff18</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.1" status="SINGLE_RESULT">1400181892000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata />
+</fits>
+

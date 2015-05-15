@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="0.6.0" timestamp="5/14/15 12:24 PM">
+  <identification>
+    <identity format="ZIP Format" mimetype="application/zip" toolname="FITS" toolversion="0.6.0">
+      <tool toolname="file utility" toolversion="5.19" />
+      <tool toolname="Exiftool" toolversion="7.74" />
+      <tool toolname="Droid" toolversion="3.0" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <version toolname="file utility" toolversion="5.19">1.0</version>
+      <externalIdentifier toolname="Droid" toolversion="3.0" type="puid">x-fmt/263</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <lastmodified toolname="Exiftool" toolversion="7.74" status="SINGLE_RESULT">2013:01:17 08:07:17-08:00</lastmodified>
+    <filepath toolname="OIS File Information" toolversion="0.1" status="SINGLE_RESULT">/home/mjg/workspace/sufia/spec/fixtures/icons.zip</filepath>
+    <filename toolname="OIS File Information" toolversion="0.1" status="SINGLE_RESULT">icons.zip</filename>
+    <size toolname="OIS File Information" toolversion="0.1" status="SINGLE_RESULT">84625</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.1" status="SINGLE_RESULT">1a2aa0b746fd4ebad08c89c0f4c444f6</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.1" status="SINGLE_RESULT">1358438837000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata />
+</fits>
+

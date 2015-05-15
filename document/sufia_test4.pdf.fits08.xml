@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="0.8.2" timestamp="5/14/15 12:37 PM">
+  <identification>
+    <identity format="Portable Document Format" mimetype="application/pdf" toolname="FITS" toolversion="0.8.2">
+      <tool toolname="Jhove" toolversion="1.5" />
+      <tool toolname="file utility" toolversion="5.19" />
+      <tool toolname="Exiftool" toolversion="9.13" />
+      <tool toolname="Droid" toolversion="6.1.3" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.4GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <tool toolname="Tika" toolversion="1.3" />
+      <version toolname="Jhove" toolversion="1.5">1.4</version>
+      <externalIdentifier toolname="Droid" toolversion="6.1.3" type="puid">fmt/18</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.5">218882</size>
+    <creatingApplicationName toolname="Jhove" toolversion="1.5">GPL Ghostscript 8.15/PScript5.dll Version 5.2.2</creatingApplicationName>
+    <lastmodified toolname="Exiftool" toolversion="9.13" status="CONFLICT">2013:01:17 08:07:17-08:00</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.3" status="CONFLICT">2010-10-09T17:29:55Z</lastmodified>
+    <created toolname="Exiftool" toolversion="9.13" status="SINGLE_RESULT">2010:10:09 10:29:55</created>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/mjg/workspace/sufia/spec/fixtures/sufia/sufia_test4.pdf</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">sufia_test4.pdf</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">5a2d761cab7c15b2b3bb3465ce64586d</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1358438837000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.5" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.5" status="SINGLE_RESULT">true</valid>
+  </filestatus>
+  <metadata>
+    <document>
+      <title toolname="Jhove" toolversion="1.5">Microsoft Word - sample.pdf.docx</title>
+      <author toolname="Jhove" toolversion="1.5">carlos</author>
+      <pageCount toolname="Jhove" toolversion="1.5">1</pageCount>
+      <isTagged toolname="Jhove" toolversion="1.5">no</isTagged>
+      <hasOutline toolname="Jhove" toolversion="1.5">no</hasOutline>
+      <hasAnnotations toolname="Jhove" toolversion="1.5" status="SINGLE_RESULT">no</hasAnnotations>
+      <isRightsManaged toolname="Exiftool" toolversion="9.13" status="SINGLE_RESULT">no</isRightsManaged>
+      <isProtected toolname="Exiftool" toolversion="9.13">no</isProtected>
+      <hasForms toolname="NLNZ Metadata Extractor" toolversion="3.4GA" status="SINGLE_RESULT">no</hasForms>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="1172">
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Jhove" toolversion="1.5" executionTime="633" />
+    <tool toolname="file utility" toolversion="5.19" executionTime="666" />
+    <tool toolname="Exiftool" toolversion="9.13" executionTime="353" />
+    <tool toolname="Droid" toolversion="6.1.3" executionTime="86" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.4GA" executionTime="535" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="87" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="212" />
+    <tool toolname="Tika" toolversion="1.3" executionTime="1126" />
+  </statistics>
+</fits>
+
